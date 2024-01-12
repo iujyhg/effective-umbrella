@@ -2,7 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 inport time
 im = Image.open('source.png')
 Ilove fly kite
-
+I'm sorry
 draw = ImageDraw.Draw(im)
 
 font = ImageFont.truetype("msyh.ttc", 15) 
